@@ -1,1 +1,1 @@
-# solidity-projects
+Задача: Да се намери начин да се качват в github нещата, като всяка папка е submodule на repository-то, в което съхранявам solidity проектите;
